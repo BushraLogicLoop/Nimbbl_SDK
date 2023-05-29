@@ -1,16 +1,31 @@
 PODS:
-  - Nimbbl_SDK (0.1.0)
+  - Analytics (4.1.8)
+  - DropDown (2.3.13)
+  - MBProgressHUD (1.2.0)
+  - Nimbbl_SDK (1.0.0):
+    - Analytics
+    - DropDown
+    - MBProgressHUD
 
 DEPENDENCIES:
   - Nimbbl_SDK (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Analytics
+    - DropDown
+    - MBProgressHUD
 
 EXTERNAL SOURCES:
   Nimbbl_SDK:
     :path: "../"
 
 SPEC CHECKSUMS:
-  Nimbbl_SDK: 91c0848083886e234c1859495cdb57c4d0485745
+  Analytics: 9655e0e1c71ea98107cfcb2b14891168acc6c6c9
+  DropDown: 8a2116376c1981888557f72ec2ffc9a5e0e456ec
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  Nimbbl_SDK: 40a5dd8a5abf7df4ca4ae173e86bd9128cf0aa2d
 
-PODFILE CHECKSUM: 2f90619096220b3c62b986d92a4ed776f26eb3bb
+PODFILE CHECKSUM: 961a520b30dea72da251346cd6f136e20b732ed2
 
 COCOAPODS: 1.12.0

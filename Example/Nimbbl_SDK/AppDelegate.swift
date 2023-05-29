@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Nimbbl_SDK
 //
-//  Created by BushraLogicLoop on 05/29/2023.
-//  Copyright (c) 2023 BushraLogicLoop. All rights reserved.
+//  Created by Bushra on 05/25/2023.
+//  Copyright (c) 2023 Bushra. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
