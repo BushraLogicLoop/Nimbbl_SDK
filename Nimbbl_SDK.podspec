@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'Nimbbl_SDK'
-  s.version          = '1.0.0'
+  s.version          = '1.0.10'
   s.summary          = 'This is the updated version of nimbbl sdk.'
 
 # This description is used to generate tags and improve search results.
@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'BushraLogicLoop' => 'bushra@logicloop.io' }
-  s.source           = { :git => 'https://github.com/BushraLogicLoop/Nimbbl_SDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/BushraLogicLoop/Nimbbl_SDK.git', :tag => s.version.to_s, :commit => '09fc537bb8ca0a9dee88075444eedcbac57607b4'}
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '13.0'
