@@ -1,0 +1,22 @@
+{
+  "name": "Nimbbl_SDK",
+  "version": "0.1.0",
+  "summary": "A short description of Nimbbl_SDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/BushraLogicLoop/Nimbbl_SDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "BushraLogicLoop": "bushra@logicloop.io"
+  },
+  "source": {
+    "git": "https://github.com/BushraLogicLoop/Nimbbl_SDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Nimbbl_SDK/Classes/**/*"
+}
